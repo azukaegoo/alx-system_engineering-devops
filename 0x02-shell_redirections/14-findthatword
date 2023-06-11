@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "foot" /etc/passwd
+grep -i root /etc/passwd
